@@ -1,8 +1,9 @@
 # 👋 Hi, I'm GeonMo Yang
-I'm a backend developer with 2+ years of experience in Java and Spring Boot applications.
+I'm a backend developer with 2+ years of experience using Java and Spring Boot.
 
-- 🛠️ Enjoy solving problems and writing clean, maintainable code.
-- ✍️ I document what I learn through side projects on my [tech blog](https://medium.com/@ands0927)
+---
+![GeonMo's GitHub stats](https://github-readme-stats.vercel.app/api?username=ge0nmo&show_icons=true&theme=radical)
+![Mosed Used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ge0nmo&layout=compact&theme=radical)
 
 ---
 
@@ -18,7 +19,7 @@ I'm a backend developer with 2+ years of experience in Java and Spring Boot appl
 ![JPA](https://img.shields.io/badge/JPA-59666C?style=flat-square)
 ![QueryDSL](https://img.shields.io/badge/QueryDSL-4B8BBE?style=flat-square)
 
-**Database & Caching**  
+**Database**  
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 
@@ -43,7 +44,3 @@ I'm a backend developer with 2+ years of experience in Java and Spring Boot appl
 **Tools**  
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ---
-
-
-## 📈 GitHub Stats
-![GeonMo's GitHub stats](https://github-readme-stats.vercel.app/api?username=ge0nmo&show_icons=true&theme=radical)
